@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **andreiafsouza/andreiafsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there!
 
-<h3>🌱 I’m currently learning some Front-End Skills</h3>
+<h5>🚀 I'm a mechanical engineer who happens to have studied graphic design and is currently learning some front-end development skills 💻</h5>
 <div align="center">
   <a href="https://github.com/andreiafsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreiafsouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=16px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiafsouza&layout=compact&langs_count=7&theme=github_dark&border_radius=16px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreiafsouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=16px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiafsouza&layout=compact&langs_count=7&theme=github_dark&border_radius=16px"/>
 </div>
   
   
