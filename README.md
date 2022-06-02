@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there!
 
-<h5>🚀 I'm a mechanical engineer who happens to have studied graphic design and is currently learning some front-end development skills 💻</h5>
+<h5>🚀 Hi There! I'm a Mechanical Engineer with past Graphic Design experience, and currently learning Front-End Web Development. 💻</h5>
+
 <div align="center">
   <a href="https://github.com/andreiafsouza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreiafsouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=16px"/>
